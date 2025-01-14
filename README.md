@@ -1,4 +1,4 @@
-　<p align="center">![](https://komarev.com/ghpvc/?username=CHOSANG-WOO&label=△&color=CE4D62)</p>
+　<p align="center">![](https://komarev.com/ghpvc/?username=CHOSANG-WOO&label=△&color=304B52)</p>
 
 <p align="center"> 
 <img src="IMG_5819.gif">
