@@ -8,4 +8,4 @@
 <p align="center"> 
 <i>" i'm <b>alive</b> because i did my best to <b>survive</b> "</i>
 <p align="center"> 
-<tt><i>. main account : @d1n0-s4ur .</i></tt>
+<tt><i>!!</i></tt>
