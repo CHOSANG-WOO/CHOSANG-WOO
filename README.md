@@ -3,4 +3,4 @@
 <p align="center"> 
 <t><i>" i'm <b>alive</b> because i did my best to <b>survive</b> "</i></t>
 <p align="center"> 
-<t><i>. main account : @d1n0s4ur .</i></t>
+<i><t>. main account : @d1n0s4ur .</t></i>
